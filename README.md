@@ -95,11 +95,11 @@ O código está organizado em funções para facilitar a leitura e manutenção:
    
 ### Vídeo de Demonstração
 
-[![Demonstração na Placa](https://img.youtube.com/vi//0.jpg)](https://youtu.be/) .
+[![Demonstração na Placa](https://img.youtube.com/vi/lhfL9c6oTFo/0.jpg)](https://youtu.be/lhfL9c6oTFo) .
 
 Um vídeo de demonstração com a explicação e exibição do funcionamento do projeto foi produzido. Clique na imagem acima ou no link abaixo para assistir:
 
-🔗 [Assistir no YouTube](https://youtu.be/)  .
+🔗 [Assistir no YouTube](https://youtu.be/lhfL9c6oTFo)  .
 
 
 
